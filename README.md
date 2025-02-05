@@ -29,17 +29,10 @@ A pure Bash steganography tool that can hide and extract secret messages in both
 
 ## Installation
 
-1. Clone or download the script:
-
-**Option 1: Clone the repository**
+1. Clone the script:
 ```bash
 git clone https://github.com/moutaouakkil/Phantom.git
 cd Phantom
-```
-
-**Option 2: Direct download**
-```bash
-wget https://raw.githubusercontent.com/moutaouakkil/Phantom/main/phantom.sh
 ```
 
 2. Make it executable:
